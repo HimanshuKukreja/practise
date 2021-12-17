@@ -1,3 +1,4 @@
+
 tom_expenses_monthly = [2500,2330,5080,6000]
 sam_expenses_monthly = [3000,5050,4900,2880]
 
