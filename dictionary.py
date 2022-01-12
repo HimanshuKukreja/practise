@@ -1,4 +1,4 @@
-# dictionary is mpre of key value pair
+# dictionary is more of key value pair
 
 dict = {"A":123,"B":456,"C":789}
 print("dictionary = ", dict)

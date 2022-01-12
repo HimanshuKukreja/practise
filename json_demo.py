@@ -18,7 +18,17 @@ book['bob']={
 
 import json
 s = json.dumps(book) #json.dumps takes a dictionary object and converts into json string dataset
-# print(s)
-# write this string inot a file
+print("Json String = ", s)
+# write this string i a file
 with open("/home/h/PycharmProjects/book.txt",'w') as f:
     f.write(s)
+x = open("/home/h/PycharmProjects/book.txt","r")
+a = x.read()
+print(type(a))
+print("Dictionary = ", a)
+b = json.loads(a)
+print(b['tom']['phone'])
+for person in book:
+    print(book[person])
+
+

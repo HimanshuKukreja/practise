@@ -1,0 +1,10 @@
+2021-12-22 01:15:47,550 __main__ INFO calculate_total_expenses Month : 1 Expenses: 2500
+2021-12-22 01:15:47,550 __main__ INFO calculate_total_expenses Month : 2 Expenses: 2330
+2021-12-22 01:15:47,551 __main__ INFO calculate_total_expenses Month : 3 Expenses: 5080
+2021-12-22 01:15:47,551 __main__ INFO calculate_total_expenses Month : 4 Expenses: 6000
+2021-12-22 01:15:47,551 __main__ INFO <module> Tom's total monthly expenses = 15910
+2021-12-22 01:15:47,551 __main__ INFO calculate_total_expenses Month : 1 Expenses: 3000
+2021-12-22 01:15:47,551 __main__ INFO calculate_total_expenses Month : 2 Expenses: 5050
+2021-12-22 01:15:47,551 __main__ INFO calculate_total_expenses Month : 3 Expenses: 4900
+2021-12-22 01:15:47,551 __main__ INFO calculate_total_expenses Month : 4 Expenses: 2880
+2021-12-22 01:15:47,551 __main__ INFO <module> Sam's total monthly expenses = 15830
